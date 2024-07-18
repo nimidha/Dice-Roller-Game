@@ -23,7 +23,7 @@ The dice roller web app lets users input the number of dice they want to roll. A
 # How to Use
 
     Clone or download the repository to your local machine.
-    Open the index.html file in a web browser.
+    Open the .html file in a web browser.
     Adjust the number of dice using the input field if desired.
     Click the "Roll Dice" button to roll the dice.
     View the numeric results and corresponding dice images displayed below the input.
