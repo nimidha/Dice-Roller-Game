@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+#h1{
+    color: brown;
+    font-style: oblique;
+
+}
+#label{
+    color: rgb(221, 162, 14);
+}
+#button{
+    background-color: aquamarine;
+    border-radius: 1em;
+    border-color: rgb(8, 248, 248);
+    cursor: pointer;
+}
+#button:hover{
+    background-color:rgb(50, 213, 219);
+}
+     
+#button:active{
+    background-color: blue;
+}
+#container{
+    background-color: beige;
+    margin: auto;
+    max-width: 450px;
+    
+}
+#dice_result{
+    margin: 20px;
+
+}
+#dice_image img{
+    width: 80px;
+    margin: 5px;
+}
